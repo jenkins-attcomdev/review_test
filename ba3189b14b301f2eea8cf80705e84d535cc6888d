@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d0cf36c5_e3fd3a8b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1011799
+      },
+      "writtenOn": "2017-07-28T00:22:42Z",
+      "side": 1,
+      "message": "Wrong commit message.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 13
+      },
+      "revId": "ba3189b14b301f2eea8cf80705e84d535cc6888d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a4623b44_265deb03",
+        "filename": "test.file",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1011799
+      },
+      "writtenOn": "2017-07-28T00:22:42Z",
+      "side": 1,
+      "message": "Not sure...",
+      "revId": "ba3189b14b301f2eea8cf80705e84d535cc6888d",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
